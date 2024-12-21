@@ -1,2 +1,14 @@
 /.venv/
-/pruebas.ipynb
+pruebas.ipynb
+/comprobaciones_eliminadas.ipynb
+/nuevas_pelis.csv
+/TMDb_updated.csv
+/generos.csv
+/anime-reviews.ipynb
+/Datasets/anime-dataset-2023.csv
+/Datasets/users-details-2023.csv
+/Datasets/users-score-2023.csv
+/ipykernel.txt
+/myanimeweights.weights.h5
+/copia_film_reviews.ipynb
+/.ipynb_checkpoints/
